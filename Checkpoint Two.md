@@ -21,6 +21,10 @@ Secondly, I've considered the possibility of something more interactive--somethi
 
 These are my thoughts--I am really concerned that it's taken me this long to figure out what I want to do, but I think this is still a doable project, and I could really use some help with figuring out an appropriate format and picking a tool to help present my data in a satisfying way.
 
+Update: I've been messing around with Prezi today and I think I'm moving towards the sort of thing I've imagined. You can view that [here](http://prezi.com/fhlr-uhv6aqi/?utm_campaign=share&utm_medium=copy&rc=ex0share).
+
+You can view copies of the digitized newspaper I've chosen in the main area of my project folder.
+
 
 
 
